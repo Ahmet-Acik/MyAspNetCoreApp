@@ -95,3 +95,4 @@
 /Users/drahmetacik/Projects/MyAspNetCoreApp/obj/Debug/net9.0/MyAspNetCoreApp.pdb
 /Users/drahmetacik/Projects/MyAspNetCoreApp/obj/Debug/net9.0/MyAspNetCoreApp.genruntimeconfig.cache
 /Users/drahmetacik/Projects/MyAspNetCoreApp/obj/Debug/net9.0/ref/MyAspNetCoreApp.dll
+/Users/drahmetacik/Projects/MyAspNetCoreApp/obj/Debug/net9.0/MyAspNetCoreApp.sourcelink.json

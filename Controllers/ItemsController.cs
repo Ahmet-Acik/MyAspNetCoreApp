@@ -12,5 +12,10 @@ namespace MyAspNetCoreApp.Controllers
             return View(item);
         }
 
+        public IActionResult Edit(int id)
+        {
+            return Content("item id: " + id);
+        }
+
     }
 }

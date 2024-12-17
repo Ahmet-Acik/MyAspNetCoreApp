@@ -1,4 +1,20 @@
 @{
-
+    var message = "Hello World!";
+    var items = new List<string> { "Item 1", "Item 2", "Item 3" };
+    var isLoggedIn = true;
 }
-<p></p>
+<p>@message</p>
+<ul>
+    @foreach (var item in items)
+    {
+        <li>@item</li>
+    }
+</ul>
+@if (isLoggedIn)
+{
+    <p>Welcome back!</p>
+}
+else
+{
+    <p>Please log in.</p>
+}
